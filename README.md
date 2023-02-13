@@ -1,7 +1,8 @@
-# How to change the selection shape in .NET MAUI Calendar (SfCalendar)
+# How to Change the Selection Shape in the .NET MAUI Calendar (SfCalendar)
+
 This repository contains a sample to change the selection shape in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13873/how-to-change-the-selection-shape-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
